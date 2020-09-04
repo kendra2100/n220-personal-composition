@@ -8,7 +8,7 @@ function draw() {
   fill(26, 240, 89, 140);
   stroke(49, 459, 35, 393);
 
-  ellipse(50, 50, 80, 80);
+  ellipse(60, 50, 80, 80);
 
   ellipse(150, 150, 80, 80);
 
